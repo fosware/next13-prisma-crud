@@ -18,8 +18,8 @@ This is a simple Notes list application built using Next.js, TypeScript, and Tai
 
 Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
-1. Clone this repository: `git clone https://github.com/YourUsername/your-todo-app.git`
-2. Navigate to the project directory: `cd your-todo-app`
+1. Clone this repository: `git clone https://github.com/fosware/next13-prisma-crud.git`
+2. Navigate to the project directory: `cd next13-prisma-crud`
 3. Install the dependencies: `npm install`
 
 ## How to Use
